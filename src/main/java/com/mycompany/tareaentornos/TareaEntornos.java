@@ -11,6 +11,7 @@ package com.mycompany.tareaentornos;
 public class TareaEntornos {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("hola mundillo");
+        System.out.println("buenos dias");
     }
 }
